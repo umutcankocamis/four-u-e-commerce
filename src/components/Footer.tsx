@@ -20,11 +20,11 @@ const Footer = () => {
           </span>
           <span className="font-semibold">+1 234 567 890</span>
           <div className="flex gap-6">
-            <Image src="/facebook.png" alt="" width={16} height={16} />
-            <Image src="/instagram.png" alt="" width={16} height={16} />
-            <Image src="/youtube.png" alt="" width={16} height={16} />
-            <Image src="/pinterest.png" alt="" width={16} height={16} />
-            <Image src="/x.png" alt="" width={16} height={16} />
+            <Image src="./facebook.png" alt="" width={16} height={16} />
+            <Image src="./instagram.png" alt="" width={16} height={16} />
+            <Image src="./youtube.png" alt="" width={16} height={16} />
+            <Image src="./pinterest.png" alt="" width={16} height={16} />
+            <Image src="./x.png" alt="" width={16} height={16} />
           </div>
         </div>
         <div className="hidden lg:flex justify-between w-1/2">
@@ -75,11 +75,11 @@ const Footer = () => {
           </div>
           <span className="font-semibold">Secure Payments</span>
           <div className="flex justify-between">
-            <Image src="/discover.png" alt="" width={40} height={20} />
-            <Image src="/skrill.png" alt="" width={40} height={20} />
-            <Image src="/paypal.png" alt="" width={40} height={20} />
-            <Image src="/mastercard.png" alt="" width={40} height={20} />
-            <Image src="/visa.png" alt="" width={40} height={20} />
+            <Image src="./discover.png" alt="" width={40} height={20} />
+            <Image src="./skrill.png" alt="" width={40} height={20} />
+            <Image src="./paypal.png" alt="" width={40} height={20} />
+            <Image src="./mastercard.png" alt="" width={40} height={20} />
+            <Image src="./visa.png" alt="" width={40} height={20} />
           </div>
         </div>
       </div>
