@@ -6,7 +6,6 @@
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
-<h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
   <h1>HomePage</h1>
