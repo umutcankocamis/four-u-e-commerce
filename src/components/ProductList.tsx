@@ -58,7 +58,7 @@ const ProductList = async ({
         >
           <div className="relative w-full h-80">
             <Image
-              src={product.media?.mainMedia?.image?.url || "./product.png"}
+              src={product.media?.mainMedia?.image?.url || "/product.png"}
               alt=""
               fill
               sizes="25vw"
